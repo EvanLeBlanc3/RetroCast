@@ -1,0 +1,16 @@
+{
+  "name": "RetroCast – Local on the 8s",
+  "short_name": "RetroCast",
+  "description": "A 1990s cable-weather style local forecast with Local on the 8s, a warning crawl and smooth jazz.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "fullscreen",
+  "orientation": "landscape",
+  "background_color": "#000000",
+  "theme_color": "#1a0f4e",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
